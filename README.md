@@ -1,8 +1,11 @@
-![image](https://github.com/RiyadAhmadov/Mentorness/assets/116457780/a4459ebd-2729-4bac-a8e3-38f35bae493f)# Fastag Fraud Detection
+# Mentorness (Remote Data Scientist)
+![image](https://github.com/RiyadAhmadov/Mentorness/assets/116457780/a4459ebd-2729-4bac-a8e3-38f35bae493f)
 
-![Fastag Fraud Detection](https://www.airswift.com/hubfs/remote%20data%20scientist%20working.jpg)
 
 # Project 1: Fastag fraud detection
+
+![Fastag Fraud Detection](https://m.economictimes.com/thumb/msid-92496783,width-1600,height-900,resizemode-4,imgsize-62926/fastag-all-vehicles.jpg)
+
 ## Dataset Description
 
 The dataset contains the following columns:
